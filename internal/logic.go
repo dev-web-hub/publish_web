@@ -6,6 +6,5 @@ type Input struct {
 }
 
 func Run(input Input) error {
-    // TODO: implement publish_web logic
     return nil
 }
